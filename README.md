@@ -4,7 +4,7 @@ This is the portfolio of python code that I learned during BISC "you can put wha
 
 ## Using Jupyter Notebooks
 
-We imported multiple files, created tables and graphs with the data, and learned commands to navigate, edit, and interpret the data sets.
+We imported multiple files and learned commands to navigate, edit, and interpret the data sets.
 
 ```python
 %matplotlib inline
